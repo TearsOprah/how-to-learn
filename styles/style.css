@@ -6,14 +6,6 @@
   padding: 0;
 }
 
-/* .page_text-center {
-  text-align: center;
-}
-
-.page_title-width {
-  width: 60%;
-} */
-
 .logo {
   background-size: contain;
   background-repeat: no-repeat;
@@ -150,10 +142,6 @@
   color: white;
 }
 
-/* .section-title_margin {
-  margin-bottom: 20px;
-} */
-
 .section-subtitle {
   margin: 0;
   line-height: 34px;
@@ -220,10 +208,6 @@
   min-height: 890px;
 }
 
-/* .feynman_size {
-  min-height: 890px;
-} */
-
 .feynman__title {
   margin: 100px auto 70px;
   max-width: 648px;
@@ -277,15 +261,6 @@
   padding-top: 90px;
   padding-bottom: 90px;
 }
-
-/* .kaufman_background-color_black {
-  background-color: #1f1f1f;
-}
-
-.kaufman_padding {
-  padding-top: 90px;
-  padding-bottom: 90px;
-} */
 
 .kaufman__triangle {
   background-image: url("../images/kaufman-triangle.svg");
