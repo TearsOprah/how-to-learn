@@ -136,6 +136,7 @@
   text-align: center;
   width: 60%;
   margin-bottom: 20px;
+  z-index: 1;
 }
 
 .section-title_theme_dark {
@@ -149,6 +150,7 @@
   font-weight: normal;
   text-align: center;
   width: 60%;
+  z-index: 1;
 }
 
 .section-subtitle_theme_dark {
