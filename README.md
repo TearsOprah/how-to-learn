@@ -10,4 +10,4 @@
 * работа с анимациями, шрифтами и фреймами
 * оформление по правилам Nested БЭМ
 
-* [Ссылка на сайт](https://tearsoprah.github.io/how-to-learn/)
+[Ссылка на сайт](https://tearsoprah.github.io/how-to-learn/)
